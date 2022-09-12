@@ -1,0 +1,1680 @@
+
+running 1 test
+IncompleteFrame:ParsedFrame {
+    Header: 112,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+Enocuntered Call
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+Enocuntered Call
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+Enocuntered Call
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+Enocuntered Call
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: None,
+    Result_type: Some(
+        (
+            20,
+            20,
+        ),
+    ),
+    Data: None,
+    Text: None,
+}
+Enocuntered Call
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: None,
+    Result_type: Some(
+        (
+            20,
+            20,
+        ),
+    ),
+    Data: None,
+    Text: None,
+}
+Enocuntered Call
+Found Parse textual 2
+name : 55
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+Frame(ParsedFrame {
+    Header: 10,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: Some(
+        (
+            20,
+            20,
+        ),
+    ),
+    Data: Some(
+        (
+            7,
+            62,
+        ),
+    ),
+    Text: None,
+})
+IncompleteFrame:ParsedFrame {
+    Header: 112,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+Found Parse textual ETX 10
+name : TINKYWINKY
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+Found Parse textual ETX 10
+name : TINKYWINKY
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+Found Parse textual ETX 10
+name : TINKYWINKY
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+Found Parse textual ETX 10
+name : TINKYWINKY
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+Found Parse textual ETX 10
+name : TINKYWINKY
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+Found Parse textual ETX 10
+name : TINKYWINKY
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+Found Parse textual ETX 10
+name : TINKYWINKY
+Found Parse textual ETX 5
+name : DIPSY
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+Found Parse textual ETX 10
+name : TINKYWINKY
+Found Parse textual ETX 5
+name : DIPSY
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+Found Parse textual ETX 10
+name : TINKYWINKY
+Found Parse textual ETX 5
+name : DIPSY
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+Found Parse textual ETX 10
+name : TINKYWINKY
+Found Parse textual ETX 5
+name : DIPSY
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+Found Parse textual ETX 10
+name : TINKYWINKY
+Found Parse textual ETX 5
+name : DIPSY
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+Found Parse textual ETX 10
+name : TINKYWINKY
+Found Parse textual ETX 5
+name : DIPSY
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+Found Parse textual ETX 10
+name : TINKYWINKY
+Found Parse textual ETX 5
+name : DIPSY
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+Found Parse textual ETX 10
+name : TINKYWINKY
+Found Parse textual ETX 5
+name : DIPSY
+Found Parse textual ETX 6
+name : LAALAA
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+Found Parse textual ETX 10
+name : TINKYWINKY
+Found Parse textual ETX 5
+name : DIPSY
+Found Parse textual ETX 6
+name : LAALAA
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+Found Parse textual ETX 10
+name : TINKYWINKY
+Found Parse textual ETX 5
+name : DIPSY
+Found Parse textual ETX 6
+name : LAALAA
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+Found Parse textual ETX 10
+name : TINKYWINKY
+Found Parse textual ETX 5
+name : DIPSY
+Found Parse textual ETX 6
+name : LAALAA
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+Found Parse textual ETX 10
+name : TINKYWINKY
+Found Parse textual ETX 5
+name : DIPSY
+Found Parse textual ETX 6
+name : LAALAA
+IncompleteFrame:ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+REG_CALLER_HERE
+Found Parse textual ETX 10
+name : TINKYWINKY
+Found Parse textual ETX 5
+name : DIPSY
+Found Parse textual ETX 6
+name : LAALAA
+Found Parse textual ETX 4
+name : JEFF
+Frame(ParsedFrame {
+    Header: 64,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: Some(
+        [
+            "TINKYWINKY",
+            "DIPSY",
+            "LAALAA",
+            "JEFF",
+        ],
+    ),
+})
+IncompleteFrame:ParsedFrame {
+    Header: 112,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 50,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 50,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 50,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 65,
+    Data_size: None,
+    Result_type: Some(
+        (
+            51,
+            51,
+        ),
+    ),
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 65,
+    Data_size: None,
+    Result_type: Some(
+        (
+            51,
+            51,
+        ),
+    ),
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 65,
+    Data_size: None,
+    Result_type: Some(
+        (
+            51,
+            51,
+        ),
+    ),
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 65,
+    Data_size: None,
+    Result_type: Some(
+        (
+            51,
+            51,
+        ),
+    ),
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 65,
+    Data_size: None,
+    Result_type: Some(
+        (
+            51,
+            51,
+        ),
+    ),
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 65,
+    Data_size: None,
+    Result_type: Some(
+        (
+            51,
+            51,
+        ),
+    ),
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 65,
+    Data_size: None,
+    Result_type: Some(
+        (
+            51,
+            51,
+        ),
+    ),
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 65,
+    Data_size: None,
+    Result_type: Some(
+        (
+            51,
+            51,
+        ),
+    ),
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 65,
+    Data_size: None,
+    Result_type: Some(
+        (
+            51,
+            51,
+        ),
+    ),
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 65,
+    Data_size: Some(
+        7,
+    ),
+    Result_type: Some(
+        (
+            51,
+            51,
+        ),
+    ),
+    Data: Some(
+        (
+            4,
+            11,
+        ),
+    ),
+    Text: None,
+}
+Frame(ParsedFrame {
+    Header: 65,
+    Data_size: Some(
+        7,
+    ),
+    Result_type: Some(
+        (
+            51,
+            51,
+        ),
+    ),
+    Data: Some(
+        (
+            4,
+            11,
+        ),
+    ),
+    Text: None,
+})
+IncompleteFrame:ParsedFrame {
+    Header: 112,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: None,
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+ERROR BYTES : (20, 20)
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: None,
+    Result_type: Some(
+        (
+            20,
+            20,
+        ),
+    ),
+    Data: None,
+    Text: None,
+}
+ERROR BYTES : (20, 20)
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: None,
+    Result_type: Some(
+        (
+            20,
+            20,
+        ),
+    ),
+    Data: None,
+    Text: None,
+}
+ERROR BYTES : (20, 20)
+Found Parse textual 2
+name : 55
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+IncompleteFrame:ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: None,
+    Data: None,
+    Text: None,
+}
+Frame(ParsedFrame {
+    Header: 32,
+    Data_size: Some(
+        55,
+    ),
+    Result_type: Some(
+        (
+            20,
+            20,
+        ),
+    ),
+    Data: Some(
+        (
+            7,
+            62,
+        ),
+    ),
+    Text: None,
+})
+test tests::run_parser_tests ... ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
+
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
